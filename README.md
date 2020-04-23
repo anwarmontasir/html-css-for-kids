@@ -15,7 +15,7 @@ View today's [Google Slides](https://docs.google.com/presentation/d/1AzqqXTkeSak
 Today's goals:
 
 * Two types of lists
-* Add a <title> to our <head>
+* Add a title to our head
 
 ---
 
