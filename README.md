@@ -2,10 +2,9 @@
 
 These files accompany my livestream for Team Treehouse, "HTML and CSS...for kids!" Currently on Fridays at 10:30am PST.
 
-* YouTube: https://lnkd.in/g_fckhf
-* Facebook: https://lnkd.in/gC7cDWX
-* Twitter: https://lnkd.in/g44hQrG
-* Twitch: https://lnkd.in/guW3e4r
+Join Treehouse teachers for live and interactive sessions!
+
+* https://join.teamtreehouse.com/treehouse-live/
 
 ---
 
