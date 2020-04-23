@@ -8,6 +8,17 @@ Join Treehouse teachers for live and interactive sessions!
 
 ---
 
+## April 24, 2020
+
+View today's [Google Slides](https://docs.google.com/presentation/d/1AzqqXTkeSak8e8BKBSvOD9Mhpn9-VgZg3A-YQPOPpbE/edit?usp=sharing) accompanying our lesson.
+
+Today's goals:
+
+* Two types of lists
+* Add a <title> to our <head>
+
+---
+
 ## April 17, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/1dlAAvxBrKVzJ87X8uFDXdRQGBur5HgYvtEUajeSLlKI/edit?usp=sharing) accompanying our lesson.
