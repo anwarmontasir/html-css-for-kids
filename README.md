@@ -17,6 +17,8 @@ Today's goals:
 * Add headings to our web page
 * Add descriptions to our images
 
+---
+
 ## April 24, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/1AzqqXTkeSak8e8BKBSvOD9Mhpn9-VgZg3A-YQPOPpbE/edit?usp=sharing) accompanying our lesson.
