@@ -4,7 +4,10 @@ These files accompany my livestream for Team Treehouse, "HTML and CSS...for kids
 
 Join Treehouse teachers for live and interactive sessions!
 
-* https://join.teamtreehouse.com/treehouse-live/
+* YouTube: https://www.youtube.com/gotreehouse
+* Facebook: https://www.facebook.com/TeamTreehouse/
+* Twitter: https://twitter.com/treehouse
+* Twitch: https://www.twitch.tv/team_treehouse
 
 ---
 
