@@ -8,6 +8,15 @@ Join Treehouse teachers for live and interactive sessions!
 
 ---
 
+## May 1, 2020
+
+View today's [Google Slides](https://docs.google.com/presentation/d/1tr-sTP6AthWGPKEXZ3CR-KlMSzIQKAT7E5KK14EpEmk/edit?usp=sharing) accompanying our lesson.
+
+Today's goals:
+
+* Add headings to our web page
+* Add descriptions to our images
+
 ## April 24, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/1AzqqXTkeSak8e8BKBSvOD9Mhpn9-VgZg3A-YQPOPpbE/edit?usp=sharing) accompanying our lesson.
