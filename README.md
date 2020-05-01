@@ -11,7 +11,7 @@ Join Treehouse teachers for live and interactive sessions!
 
 ---
 
-If this is your first time joining us, note that I'm using a code editor called Visual Studio Code.
+If this is your first time joining us, note that I'm using a code editor called **Visual Studio Code**.
 
 It's free! Download it here: https://code.visualstudio.com/
 
