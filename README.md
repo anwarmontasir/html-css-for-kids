@@ -11,12 +11,19 @@ Join Treehouse teachers for live and interactive sessions!
 
 ---
 
+If this is your first time joining us, note that I'm using a code editor called Visual Studio Code.
+
+It's free! Download it here: https://code.visualstudio.com/
+
+---
+
 ## May 1, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/1tr-sTP6AthWGPKEXZ3CR-KlMSzIQKAT7E5KK14EpEmk/edit?usp=sharing) accompanying our lesson.
 
 Today's goals:
 
+* Create a favicon, using https://favicon.io/ to help us.
 * Add headings to our web page
 * Add descriptions to our images
 
