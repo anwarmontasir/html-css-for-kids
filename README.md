@@ -17,6 +17,22 @@ It's free! Download it here: https://code.visualstudio.com/
 
 ---
 
+## May 8, 2020
+
+View today's [Google Slides](https://docs.google.com/presentation/d/1CExyzfmjcKsnMKG8rcuMLiuCGX2C5NiL4Nx88MGDUss/edit?usp=sharing) accompanying our lesson
+
+Today's goals: 
+
+* Add a CSS style sheet!
+* Change our text and background colors
+
+Accessibility resources:
+
+* [WebAIM](https://webaim.org/)
+* [The A11Y Project](https://a11yproject.com/)
+* [Nielsen Norman Group | Accessibility](https://www.nngroup.com/topic/accessibility/)
+* [Smashing Magazine | Accessibility](https://www.smashingmagazine.com/category/accessibility/)
+
 ## May 1, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/1tr-sTP6AthWGPKEXZ3CR-KlMSzIQKAT7E5KK14EpEmk/edit?usp=sharing) accompanying our lesson.
