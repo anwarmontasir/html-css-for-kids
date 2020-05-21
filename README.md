@@ -17,6 +17,17 @@ It's free! Download it here: https://code.visualstudio.com/
 
 ---
 
+## May 22, 2020
+
+View today's [Google Slides](https://docs.google.com/presentation/d/1puActfv3Gf-V0eNUWrYM114I16aipSMm-fU18xAdlfI/edit?usp=sharing) accompanying our lesson.
+
+Today's goals:
+
+* Use CSS to change how our text looks
+* Add a [Google Font](https://fonts.google.com/) to our web page
+
+---
+
 ## May 8, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/1CExyzfmjcKsnMKG8rcuMLiuCGX2C5NiL4Nx88MGDUss/edit?usp=sharing) accompanying our lesson
@@ -32,6 +43,8 @@ Accessibility resources:
 * [The A11Y Project](https://a11yproject.com/)
 * [Nielsen Norman Group | Accessibility](https://www.nngroup.com/topic/accessibility/)
 * [Smashing Magazine | Accessibility](https://www.smashingmagazine.com/category/accessibility/)
+
+---
 
 ## May 1, 2020
 
