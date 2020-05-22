@@ -1,4 +1,9 @@
 body {
     background-color: olivedrab;
     color: purple;
+    font-family: 'Lora', serif;
+}
+h1 {
+    font-size: 333px;
+    color: palevioletred;
 }
