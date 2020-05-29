@@ -7,3 +7,15 @@ h1 {
     font-size: 333px;
     color: palevioletred;
 }
+img {
+    border-color: yellowgreen;
+    border-width: 50px;
+    border-style: solid; 
+    padding: 3px;
+    margin: 6px;
+}
+a {
+    border-color: mediumseagreen;
+    border-width:3px;
+    border-style: groove;
+}
