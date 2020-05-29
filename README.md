@@ -1,6 +1,6 @@
 # HTML and CSS...for kids!
 
-These files accompany my livestream for Team Treehouse, "HTML and CSS...for kids!" Currently on Fridays at 10:30am PST.
+These files accompany my livestream for Team Treehouse, "HTML and CSS...for kids!" Currently on Fridays at 11am PST.
 
 Join Treehouse teachers for live and interactive sessions!
 
