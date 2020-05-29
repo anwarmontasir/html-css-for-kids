@@ -17,6 +17,17 @@ It's free! Download it here: https://code.visualstudio.com/
 
 ---
 
+## May 29, 2020
+
+View today's [Google Slides](https://docs.google.com/presentation/d/1LIJgu03Cpk48I3ON-lRDm62sDT9c5nMbCCaxtD0BImQ/edit?usp=sharing) accompanying our lesson.
+
+Today's goals:
+
+* Learn the CSS Box Model
+* Use the Google Chrome Inspector
+
+---
+
 ## May 22, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/1puActfv3Gf-V0eNUWrYM114I16aipSMm-fU18xAdlfI/edit?usp=sharing) accompanying our lesson.
