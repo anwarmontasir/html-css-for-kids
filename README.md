@@ -17,6 +17,17 @@ It's free! Download it here: https://code.visualstudio.com/
 
 ---
 
+## Jun 5, 2020
+
+View today's [Google Slides](https://docs.google.com/presentation/d/1fcrmgJjZZTMZPhCCA4q7l1fUi2oSx7qxqh7ipk5RsEI/edit?usp=sharing) accompanying our lesson.
+
+Today's goals:
+
+* Make a second web page
+* Link our pages together
+
+---
+
 ## May 29, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/1LIJgu03Cpk48I3ON-lRDm62sDT9c5nMbCCaxtD0BImQ/edit?usp=sharing) accompanying our lesson.
