@@ -1,21 +1,21 @@
 body {
-    background-color: olivedrab;
-    color: purple;
+    background-color:black;
+    color:whitesmoke;
     font-family: 'Lora', serif;
 }
 h1 {
     font-size: 333px;
-    color: palevioletred;
+    color: darkmagenta; 
 }
 img {
-    border-color: yellowgreen;
+    border-color: whitesmoke;
     border-width: 50px;
     border-style: solid; 
     padding: 3px;
     margin: 6px;
 }
 a {
-    border-color: mediumseagreen;
+    border-color: whitesmoke;
     border-width:3px;
     border-style: groove;
 }

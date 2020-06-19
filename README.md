@@ -26,6 +26,12 @@ Today's goals:
 * Embed a YouTube video
 * Link our pages together
 
+### Note about today's lesson
+
+We discovered during our lesson :) that our HTML file needed to be on a web server to see the video play on our page.
+
+Click to view [a working version of our web page including a video](https://anwarmontasir.github.io/html-css-for-kids/quackamole/thisistheaminashow.html). 
+
 ---
 
 ## Jun 5, 2020
