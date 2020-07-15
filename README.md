@@ -17,6 +17,14 @@ It's free! Download it here: https://code.visualstudio.com/
 
 ---
 
+## Jul 15, 2020
+
+Today's goals:
+
+* Draw a [sitemap](amina-sitemap.jpg)
+* Begin a website about Marie Antoinette
+* Build a page navigation
+
 ## Jun 19, 2020
 
 View today's [Google Slides](https://docs.google.com/presentation/d/14vyMQ7UnKzwLOGCAj7VleTCh0UR-chghD6xD5hSNpYQ/edit?usp=sharing) accompanying our lesson.
