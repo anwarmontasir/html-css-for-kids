@@ -17,6 +17,16 @@ It's free! Download it here: https://code.visualstudio.com/
 
 ---
 
+## Sep 30, 2020
+
+Today's goals:
+
+* Gather [research](https://docs.google.com/document/d/1-M6sNbF1dk87dD8T8-sdxJSK4uLRPuXqbWMbmBDH5M4/edit?usp=sharing) about Marie Antoinette
+* Create homepage content
+* Add images from a local images folder
+
+---
+
 ## Jul 15, 2020
 
 Today's goals:
@@ -24,6 +34,8 @@ Today's goals:
 * Draw a [sitemap](amina-sitemap.jpg)
 * Begin a website about Marie Antoinette
 * Build a page navigation
+
+---
 
 ## Jun 19, 2020
 
